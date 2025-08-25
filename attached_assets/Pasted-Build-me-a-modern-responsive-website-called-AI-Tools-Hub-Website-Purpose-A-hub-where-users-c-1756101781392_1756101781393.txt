@@ -1,0 +1,96 @@
+Build me a modern responsive website called “AI Tools Hub”.
+
+🔹 Website Purpose:
+A hub where users can discover, compare, and learn about AI tools. It should feel like a futuristic dashboard (not a boring blog).
+
+🔹 Pages/Sections Needed:
+
+Home Page
+
+Big search bar asking: “What do you want to do with AI?”
+
+Trending tools carousel/grid
+
+Category buttons (Text, Image, Video, Coding, Music, Productivity, Business, etc.)
+
+Task finder shortcuts (like “Create a logo”, “Write an essay”, etc.)
+
+Newsletter signup box.
+
+Discover Tools Page
+
+Grid of tools (Card design with logo, short description, pricing tag, button).
+
+Filters (Free/Paid, Popular, Category).
+
+Tool Details Page
+
+Tool logo + screenshots.
+
+Full description.
+
+Pricing info.
+
+Pros/Cons.
+
+“Visit Website” button.
+
+Suggested similar tools.
+
+Compare Page
+
+User selects 2 tools → Show side-by-side comparison (features, pricing, ratings).
+
+Community Page
+
+Form to submit new AI tools.
+
+Upvote system.
+
+Leaderboard of contributors.
+
+Blog/News Page
+
+Latest AI news and tutorial articles.
+
+My Toolkit (Account Section)
+
+Users can log in/sign up.
+
+Save their favorite tools into a personal toolkit.
+
+🔹 Design Style:
+
+Default dark mode, but include a theme toggle button (🌙/☀️) to switch between dark/light.
+
+Modern UI → TailwindCSS, rounded cards, hover effects, smooth transitions.
+
+Colors → Dark gray background, Neon Blue + Purple highlights.
+
+Font → Clean and futuristic (like Inter or Poppins).
+
+🔹 Special Features:
+
+Dark/Light mode toggle with smooth animation + localStorage (remembers preference).
+
+AI Tool Recommender → If user types a task (e.g., “make a comic”), recommend best tools.
+
+Newsletter form (just front-end, no backend needed).
+
+Animations with Framer Motion for smooth UI.
+
+🔹 Tech Stack:
+
+Frontend: HTML + TailwindCSS + JavaScript (React or Next.js preferred, but vanilla JS is okay).
+
+Backend (optional for now): Node.js or Python Flask (for database, login, saving tools). For now, just use static JSON data for tools.
+
+Database (optional for now): JSON file (mock data of tools).
+
+🔹 Extra Requirements:
+
+Make the site fully responsive (mobile, tablet, desktop).
+
+Add a sticky navbar with: Home | Discover | Compare | Community | Blog | Toolkit | Dark/Light Toggle.
+
+Smooth page transitions (fade/slide).
