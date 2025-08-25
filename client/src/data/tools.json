@@ -1,0 +1,96 @@
+{
+  "categories": [
+    {
+      "id": "text",
+      "name": "Text & Writing",
+      "icon": "fas fa-comments",
+      "description": "AI tools for writing, editing, and text generation"
+    },
+    {
+      "id": "image",
+      "name": "Image Generation",
+      "icon": "fas fa-image",
+      "description": "Create stunning visuals with AI"
+    },
+    {
+      "id": "video",
+      "name": "Video Creation",
+      "icon": "fas fa-video",
+      "description": "AI-powered video editing and generation"
+    },
+    {
+      "id": "code",
+      "name": "Code Generation",
+      "icon": "fas fa-code",
+      "description": "AI assistants for programming and development"
+    },
+    {
+      "id": "music",
+      "name": "Music & Audio",
+      "icon": "fas fa-music",
+      "description": "AI composers and audio tools"
+    },
+    {
+      "id": "productivity",
+      "name": "Productivity",
+      "icon": "fas fa-tasks",
+      "description": "Boost your efficiency with AI"
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "icon": "fas fa-briefcase",
+      "description": "AI solutions for business operations"
+    },
+    {
+      "id": "ai",
+      "name": "AI & ML",
+      "icon": "fas fa-robot",
+      "description": "Machine learning and AI development tools"
+    }
+  ],
+  "taskShortcuts": [
+    {
+      "id": "logo",
+      "name": "Create a Logo",
+      "icon": "fas fa-palette",
+      "keywords": ["logo", "design", "branding"],
+      "recommendedTools": ["Midjourney", "DALL-E 2", "Canva AI"]
+    },
+    {
+      "id": "essay",
+      "name": "Write an Essay",
+      "icon": "fas fa-pen-fancy",
+      "keywords": ["essay", "write", "writing"],
+      "recommendedTools": ["ChatGPT", "Jasper AI", "Copy.ai"]
+    },
+    {
+      "id": "video",
+      "name": "Edit Videos",
+      "icon": "fas fa-video",
+      "keywords": ["video", "edit", "editing"],
+      "recommendedTools": ["Runway ML", "Luma AI", "Synthesia"]
+    },
+    {
+      "id": "code",
+      "name": "Generate Code",
+      "icon": "fas fa-code",
+      "keywords": ["code", "coding", "programming"],
+      "recommendedTools": ["GitHub Copilot", "Tabnine", "CodeT5"]
+    }
+  ],
+  "aiRecommendations": {
+    "logo": ["Midjourney", "DALL-E 2", "Canva AI"],
+    "essay": ["ChatGPT", "Jasper AI", "Copy.ai"],
+    "write": ["ChatGPT", "Jasper AI", "Writesonic"],
+    "video": ["Runway ML", "Luma AI", "Synthesia"],
+    "code": ["GitHub Copilot", "Tabnine", "CodeT5"],
+    "music": ["AIVA", "Amper Music", "Boomy"],
+    "design": ["Midjourney", "Figma AI", "Adobe Sensei"],
+    "translate": ["DeepL", "Google Translate", "Lingua.ai"],
+    "image": ["Midjourney", "Stable Diffusion", "DALL-E 2"],
+    "art": ["Midjourney", "Stable Diffusion", "DALL-E 2"],
+    "chat": ["ChatGPT", "Claude", "Perplexity AI"],
+    "business": ["Jasper AI", "Copy.ai", "Notion AI"]
+  }
+}

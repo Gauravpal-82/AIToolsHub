@@ -1,0 +1,40 @@
+{
+  "popularPosts": [
+    {
+      "id": "1",
+      "title": "GPT-4 vs Claude: Which is Better?",
+      "views": 23500,
+      "rank": 1
+    },
+    {
+      "id": "2",
+      "title": "Free AI Tools Every Creator Needs",
+      "views": 18200,
+      "rank": 2
+    },
+    {
+      "id": "3", 
+      "title": "AI Ethics: What You Need to Know",
+      "views": 15800,
+      "rank": 3
+    }
+  ],
+  "categories": [
+    {
+      "name": "Tutorials",
+      "count": 42
+    },
+    {
+      "name": "Reviews", 
+      "count": 28
+    },
+    {
+      "name": "News",
+      "count": 35
+    },
+    {
+      "name": "Research",
+      "count": 19
+    }
+  ]
+}
